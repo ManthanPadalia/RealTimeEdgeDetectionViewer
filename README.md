@@ -1,4 +1,4 @@
-# 🔍 Real-Time Edge Detection — Short README
+# 🔍 Real-Time Edge Detection 
 
 A compact guide for the real-time edge detection project (Web first, Android notes included).
 
@@ -24,7 +24,10 @@ Files to inspect:
 
 ## Quick screenshots / GIF
 
--
+-<img width="1920" height="1080" alt="Screenshot 2025-10-31 023521" src="https://github.com/user-attachments/assets/eb5eacbe-5abe-483a-9fc8-22ed792f60ad" />
+<img width="1280" height="720" alt="edge_detection_1761858294403" src="https://github.com/user-attachments/assets/cc8858ae-d7f2-42ec-9f3a-39628ba9e5f6" />
+![WhatsApp Image 2025-10-31 at 09 28 07](https://github.com/user-attachments/assets/3183a93a-a032-4687-98a1-126eb9cc0d7
+
 
 ## Quick setup (Web)
 
@@ -66,6 +69,3 @@ Files to inspect:
 - Renderer: [src/webgl-renderer.ts](src/webgl-renderer.ts)
 - Build config: [tsconfig.json](tsconfig.json)
 
-## Contributing / Commit history
-
--
